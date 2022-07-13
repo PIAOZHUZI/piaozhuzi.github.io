@@ -1,0 +1,40 @@
+image: assets/img/smile.png
+username: PARK JUHEE( 박주희 )
+description: 안녕하세요! 성장하는 백엔드 개발자 박주희 입니다.  :D
+webpage: https://piaozhuzi.github.io/
+experience:
+  - start: 2019-07-01
+    end: 2022-04-30
+    experience : 노스스타컨설팅, 주임
+  - start: 2022-05-09
+    end: ing
+    experience: 유엔젤, 사원
+
+interests:
+  - 중국어
+  - 사진
+skills:
+  - skill: JAVA
+    value: 65
+  - skill: JavaScript
+    value: 60
+  - skill: RDBMS
+    value: 60
+  - skill: HTML5 & CSS
+    value: 60  # Percent value
+
+social:
+  email:  atig00328@naver.com
+#  orcid:
+#  scholar:
+#  publons:
+#  research_gate:
+#  linkedin:  # Full URL
+  github: atig00328@naver.com
+#  gitlab:
+#  bitbucket: chrjabs
+#  google_plus:
+#  twitter: chrjabs
+#  youtube:
+#  facebook:
+#  instagram:

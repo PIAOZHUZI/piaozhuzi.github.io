@@ -1,0 +1,81 @@
+#- project :
+#    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+#    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+#    url: https://github.com/chrjabs/Grape-Academic-Theme # Full URL
+#    image:
+#      path: "portfolio.png" # path: assets/project/
+#      alt: "A screenshot of the portfolio page"
+#    date: 05/2022 &ndash; Developing
+#    title: Grape-Theme
+#    summary: Academic portfolio jekyll theme.
+#    description: A modification of the Grape-Theme for jekyll to be useable as an academic portfolio.
+#    contents:
+#        - title: 1. Portfolio Page
+#          image:
+#            path: portfolio.png
+#            alt: "A screenshot of the portfolio page"
+#          description: <li>Concise portfolio page</li>
+#            <li>Recent publications</li>
+#            <li>Projects</li>
+#        - title: 2. Optional Blog Functionality
+#          image:
+#            path: home.png
+#            alt: "A screenshot of the blog page"
+#          description: <li>Responsive Layout</li>
+#            <li>Tags</li>
+#            <li>Pagination</li>
+#        - title: 3. Tags Page
+#          image:
+#            path: tags.png
+#            alt: "A screenshot of the tags page"
+#          description: <li>Responsive Layout</li>
+#            <li>Tags</li>
+
+- project:
+    contents: 솔루션 사업부 개발 팀원 / 주임 , 웹 개발 담당, Java / Spring Framework, JSP, JQuery, AEM(솔루션), 젠킨스를 이용한 배포 및 운영, 사이트 운영
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+#    url:  # Full URL
+#    image: # path: assets/project/
+    date: 2022.05.09 ~ ing &ndash; Developing
+    title: ADT_CAPS 2.0
+    summary: IoT
+    description: JAVA, Scala
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+#    url:  # Full URL
+#    image: # path: assets/project/
+    date: 2021.08 ~ 2022.01 &ndash; Developing
+    title: 삼성 SDS 반도체 웹 페이지 시스템 개편
+    summary: 웹개발
+    description: 기존 삼성 반도체 (SDS) 사이트 페이지 개편 및 개선 작업 (AVA, AEM, JQuery)
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url:  # Full URL
+    image: # path: assets/project/
+    date: 2020.10 ~ 2021.05 &ndash; Developing
+    title: 현대 오토에버 유럽 E커머스
+    summary: 웹개발
+    description: 현대 오토에버  유럽 판매 사이트 페이지 개발 및 시스템 구축(JAVA, AEM, JQuery)
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url:  # Full URL
+    image: # path: assets/project/
+    date: 2020.06 ~ 2020.11 &ndash; Developing
+    title: 감염병 크롤링 프로젝트
+    summary: 웹개발, 크롤링
+    description: 감염병에 대한 정보를 수집 및 데이터화(JAVA, JQuery, Python, RDBMS)
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url:  # Full URL
+    image: # path: assets/project/
+    date: 2020.02 ~ 2020.05  &ndash; Developing
+    title: 로레알회사 하이브리드 웹개발
+    summary: 웹개발
+    description: 로레알 화장품 브랜드 통합 및 운영 시스템 개발(JAVA, RDBMS, JQuery
+
